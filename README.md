@@ -19,7 +19,7 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 - **What is the background of your project?**
 
-<img src="https://drive.google.com/uc?id=1rJoD5XqK-cBL6dWKEqyjEHKY5PhxTsl2" alt="My Google Drive File ID" />
+<img src="https://drive.google.com/uc?id=1rJoD5XqK-cBL6dWKEqyjEHKY5PhxTsl2" alt="Lending Club Case Study" />
 
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
@@ -97,7 +97,7 @@ Give credit here.
 
 
 ## Contact
-Created by https://github.com/RohitKini - feel free to contact me!
+Created by https://github.com/rockingramsairam and https://github.com/RohitKini - feel free to contact us!
 
 
 <!-- Optional -->
