@@ -19,15 +19,20 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 - **What is the background of your project?**
 
-<img src="https://drive.google.com/uc?id=1rJoD5XqK-cBL6dWKEqyjEHKY5PhxTsl2" alt="My Google Drive File ID" />
+<img src="https://drive.google.com/uc?id=1rJoD5XqK-cBL6dWKEqyjEHKY5PhxTsl2" alt="Lending Club Case Study" />
 
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
+
 **Fully paid:** Applicant has fully paid the loan (the principal and the interest rate)
+
 **Current:** Applicant is in the process of paying the installments, i.e. the tenure of the loan is not yet completed. These candidates are not labeled as 'defaulted'.
+
 **Charged-off:** Applicant has not paid the installments in due time for a long period of time, i.e. he/she has defaulted on the loan 
+
 **Loan rejected:** The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
+
 
 **- What is the business probem that your project is trying to solve?**
 This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
@@ -92,7 +97,7 @@ Give credit here.
 
 
 ## Contact
-Created by https://github.com/RohitKini - feel free to contact me!
+Created by https://github.com/rockingramsairam and https://github.com/RohitKini - feel free to contact us!
 
 
 <!-- Optional -->
